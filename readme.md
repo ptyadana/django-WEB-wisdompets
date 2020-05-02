@@ -6,6 +6,8 @@ A fictitious Wisdom Pet Medicine offers as an adoption platform for cute and ado
 + [Python 3](https://www.python.org/) - awesome language
 + [Django 3](https://www.djangoproject.com/) - a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
 
+![WisdomPets](https://raw.githubusercontent.com/ptyadana/django-WEB-wisdompets/master/wisdom-screenshot.png)
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
